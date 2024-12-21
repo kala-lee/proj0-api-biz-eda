@@ -4,7 +4,7 @@
 
 이 프로젝트는 네이버 데이터랩 API, 특히 '검색어 트렌드' API를 활용하여 데이터를 수집하고 분석하는 것을 목표로 합니다. 검색 트렌드 데이터를 통해 의미 있는 인사이트를 도출하는 것이 최종 목표입니다.
 
----
+--- 
 
 ## 팀원 및 역할
 
@@ -86,3 +86,6 @@
 - **협업 플랫폼**:
     - Notion (자료 공유)
     - Zoom (팀 커뮤니케이션)
+
+- **napkin 분석 결과물 (김연승)**:
+- https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGU2NzA5OThiLTE3M2ItNDgzYS05NDVkLTg0MWFmYWM0Y2Q1Mw?s=1
